@@ -17,6 +17,7 @@ export default function Page() {
       "I see,  So you don't want to ?",
       "What if I asked really nicely?",
       "Pretty please ponyyyyyy",
+      "Your're gone if you said no ( ｡ •̀ ᴖ •́ ｡)",
       "Huhh!, you don't love me anymore love?",
       "With a chocolate rice cake on top",
       "What about a matcha frostie",
